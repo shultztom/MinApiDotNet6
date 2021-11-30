@@ -1,0 +1,7 @@
+/Users/tom/Documents/Repos/MinApiDotNet6/out/MinApiDotNet6
+/Users/tom/Documents/Repos/MinApiDotNet6/out/appsettings.Development.json
+/Users/tom/Documents/Repos/MinApiDotNet6/out/appsettings.json
+/Users/tom/Documents/Repos/MinApiDotNet6/out/MinApiDotNet6.dll
+/Users/tom/Documents/Repos/MinApiDotNet6/out/MinApiDotNet6.deps.json
+/Users/tom/Documents/Repos/MinApiDotNet6/out/MinApiDotNet6.runtimeconfig.json
+/Users/tom/Documents/Repos/MinApiDotNet6/out/MinApiDotNet6.pdb
